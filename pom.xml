@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Java-Programiz</module>
+  	<module>MyPOCs</module>
   </modules>
 </project>
